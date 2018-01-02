@@ -3,8 +3,6 @@
  Alajdin Rustemi
  St.Number: 213142080
 
- Mamdooh Abduldayem
- St.Number:...
 """
 from xlrd import open_workbook
 import ttk
