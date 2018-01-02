@@ -1,0 +1,915 @@
+C:\Python27\python.exe C:/Users/alajdinrustami/PycharmProjects/untitled1/asdf.py
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8">
+   <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <link href="/static/home/css/bootstrap.min.css" rel="stylesheet">
+     <link href="/static/home/css/font-awesome.min.css" rel="stylesheet">
+      <link href="/static/home/css/prettyPhoto.css" rel="stylesheet">
+       <link href="/static/home/css/main.css" rel="stylesheet">
+        <title>
+         Research Projects
+
+      -
+      Computer Science
+      -
+      Istanbul Sehir University
+        </title>
+       </link>
+      </link>
+     </link>
+    </link>
+   </meta>
+  </meta>
+ </head>
+ <body data-offset="0" data-spy="scroll" data-target="#navbar">
+  <header id="header" role="banner">
+   <div class="container" id="language">
+    <div class="box">
+     <div class="row">
+      <div class="col-md-12">
+       <div id="">
+        <form action="/i18n/setlang/" method="post">
+         <input name="csrfmiddlewaretoken" type="hidden" value="UIH6KzC5KOuzwn7WQMoJjA7RHvsKj7Vt"/>
+         <input name="next" type="hidden" value="/"/>
+         <input name="language" type="hidden" value="en"/>
+         <input name="next" type="hidden" value="/research/"/>
+         <input class="btn btn-default" type="submit" value="EN"/>
+        </form>
+        <a>
+         |
+        </a>
+        <form action="/i18n/setlang/" method="post">
+         <input name="csrfmiddlewaretoken" type="hidden" value="UIH6KzC5KOuzwn7WQMoJjA7RHvsKj7Vt"/>
+         <input name="next" type="hidden" value="/"/>
+         <input name="language" type="hidden" value="tr"/>
+         <input name="next" type="hidden" value="/research/"/>
+         <input class="btn btn-default" type="submit" value="TR"/>
+        </form>
+        <a href="/identity/login/">
+         Login
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="container">
+    <div class="navbar navbar-default" id="navbar">
+     <div class="navbar-header">
+      <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse" type="button">
+       <span class="sr-only">
+        Toggle navigation
+       </span>
+       <span class="icon-bar">
+       </span>
+       <span class="icon-bar">
+       </span>
+       <span class="icon-bar">
+       </span>
+      </button>
+      <div class="row">
+       <div class="col-xs-12">
+        <img alt="" class="logo" src="/static/home/img/logo/csLogo.png"/>
+        <span class="lead title" href="/en/">
+         <a href="/en/">
+          <strong>
+           Department of
+           <br>
+            Computer Science
+           </br>
+          </strong>
+         </a>
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class="collapse navbar-collapse">
+      <div class="row">
+       <div class="col-xs-12">
+        <ul class="nav navbar-nav navbar-right">
+         <li class="active">
+          <a href="/en/">
+           <i class="icon-home">
+           </i>
+          </a>
+         </li>
+         <li>
+          <a href="/en/about/">
+           About
+          </a>
+         </li>
+         <li>
+          <a href="/en/people/">
+           People
+          </a>
+         </li>
+         <li>
+          <a href="/en/program-overview/">
+           Programs
+          </a>
+         </li>
+         <li class="dropdown">
+          <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+           Research
+           <span class="caret">
+           </span>
+          </a>
+          <ul class="dropdown-menu">
+           <li>
+            <a href="/en/research/">
+             Research Projects
+            </a>
+           </li>
+           <li class="divider" role="separator">
+           </li>
+           <li>
+            <a href="/en/research-group/">
+             Research Groups
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li>
+          <a href="/en/news-events-overview/">
+           News
+          </a>
+         </li>
+         <li class="hidden-sm hidden-xs">
+          <p id="logo-university">
+           <a class="navbar-brand" href="http://sehir.edu.tr/">
+           </a>
+          </p>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </header>
+  <!--/#header-->
+  <section>
+   <div class="container">
+    <div class="box first">
+     <div class="center small-gap">
+      <h3>
+       Research Projects
+      </h3>
+     </div>
+     <!--/.center-->
+     <div class="row summary">
+      <div class="col-md-12 small-gap">
+       <div class="alert blacklist small-gap">
+        <h4 class="bold">
+         Ongoing Projects
+        </h4>
+       </div>
+       <ul>
+        <li>
+         <a href="#Intelligent Serious Games for Social and Cognitive Competence">
+          Intelligent Serious Games for Social and Cognitive Competence
+         </a>
+        </li>
+        <li>
+         <a href="#Sharing of Language Resources through Multilingual Representations">
+          Sharing of Language Resources through Multilingual Representations
+         </a>
+        </li>
+        <li>
+         <a href="#Algorithms and Tools for Computational Modeling of Metabolomics Data">
+          Algorithms and Tools for Computational Modeling of Metabolomics Data
+         </a>
+        </li>
+        <li>
+         <a href="#Adaptive Small Delay Defect Diagnosis">
+          Adaptive Small Delay Defect Diagnosis
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="row summary">
+      <div class="col-md-12 small-gap">
+       <div class="alert blacklist small-gap">
+        <h4 class="bold">
+         Completed Projects
+        </h4>
+       </div>
+       <ul>
+        <li>
+         <a href="#Search Campaign Management using Topic Models ">
+          Search Campaign Management using Topic Models
+         </a>
+        </li>
+        <li>
+         <a href="#Data Mining Techniques for Fast Query Optimization in Relational Database Systems ">
+          Data Mining Techniques for Fast Query Optimization in Relational Database Systems
+         </a>
+        </li>
+        <li>
+         <a href="#Intelligent Scoping of Paid Search Campaigns using Advertiser &amp; End User Provided Relevance-Feedback ">
+          Intelligent Scoping of Paid Search Campaigns using Advertiser &amp; End User Provided Relevance-Feedback
+         </a>
+        </li>
+        <li>
+         <a href="#Topic Strand: Analyzing Social Media Discussions w.r.t. Participation Patterns and Participant Profiles ">
+          Topic Strand: Analyzing Social Media Discussions w.r.t. Participation Patterns and Participant Profiles
+         </a>
+        </li>
+        <li>
+         <a href="#Testing NVR Suite of Programs with Real NMR Data ">
+          Testing NVR Suite of Programs with Real NMR Data
+         </a>
+        </li>
+        <li>
+         <a href="#TTelligent Labs: T2C2 ">
+          TTelligent Labs: T2C2
+         </a>
+        </li>
+        <li>
+         <a href="#Intelligent Regularization: Sensitivity-Steered Message Passing ">
+          Intelligent Regularization: Sensitivity-Steered Message Passing
+         </a>
+        </li>
+        <li>
+         <a href="#Real-time Video Analytics Engine Optimized for GPUs ">
+          Real-time Video Analytics Engine Optimized for GPUs
+         </a>
+        </li>
+        <li>
+         <a href="#Energy-Aware Mobile Gaming and Virtual Environments ">
+          Energy-Aware Mobile Gaming and Virtual Environments
+         </a>
+        </li>
+        <li>
+         <a href="#Automated NMR Structure Based Assignments ">
+          Automated NMR Structure Based Assignments
+         </a>
+        </li>
+        <li>
+         <a href="#Novel algorithms for NMR Structure-Based Assignments ">
+          Novel algorithms for NMR Structure-Based Assignments
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="row ">
+      <div class="panel panel-default gap ">
+       <div class="panel-heading ">
+        <h4 class="bold">
+         Project Summaries - Ongoing Projects
+        </h4>
+       </div>
+       <ul class="list-group ">
+        <li class="list-group-item">
+         <a class="redirect" id="Intelligent Serious Games for Social and Cognitive Competence">
+         </a>
+         <h4 class="bold">
+          Intelligent Serious Games for Social and Cognitive Competence
+         </h4>
+         <p>
+          Nov. 1, 2015
+  -
+  Nov. 1, 2018
+         </p>
+         <p>
+          <span class="bold">
+           Funding Institution:
+          </span>
+          EU &amp; Turkish Ministry of EU
+         </p>
+         <p>
+          <span class="bold">
+           Principal Investigator:
+          </span>
+          <a href="/profile/8/Shervin-Shirmohammadi/">
+           Shervin Shirmohammadi
+          </a>
+         </p>
+         <p>
+         </p>
+         <img class="img-responsive img-thumbnail small-gap" src="/media/img/project/Blank_Digital_Document_1_Q7i7NIt.png">
+          <p class="gap">
+           Project consortium which is coordinated by Prof. Shervin Shirmohammadi from Computer Science and  Engineering Department of ÞEHÝR, is composed of University of Pannonia-Hungary, University of Maribor-Slovenia, ZGURA-M Ltd.-Bulgaria PhoenixKM-Belgium, Ubited-Turkey,  4flyy Ltd.-Turkey and Onda Dokuz Education Services-Turkey. 36 months-project will help to improve the quality, attractiveness and accessibility of the opportunities for lifelong learning available by developing interactive mobile games and 3D stimulations by user generated scenarios for acquiring  transversal competencies  such as social  competence and creativeness to increase the social integration and personal development of children and youth with disabilities.
+          </p>
+         </img>
+        </li>
+        <li class="list-group-item">
+         <a class="redirect" id="Sharing of Language Resources through Multilingual Representations">
+         </a>
+         <h4 class="bold">
+          Sharing of Language Resources through Multilingual Representations
+         </h4>
+         <p>
+          April 1, 2015
+  -
+  Oct. 1, 2016
+         </p>
+         <p>
+          <span class="bold">
+           Funding Institution:
+          </span>
+          TUBITAK
+         </p>
+         <p>
+          <span class="bold">
+           Principal Investigator:
+          </span>
+          <a href="/profile/7/Onur-Güzey/">
+           Onur Güzey
+          </a>
+         </p>
+         <p>
+         </p>
+         <img class="img-responsive img-thumbnail small-gap" src="/media/img/project/rsz_last_-_blank_5GTBHLY.png">
+          <p class="gap">
+           In this project multilingual representations will be used to enable Turkish natural language processing tools to utilize foreign language resources. The amount and quality of the data used is the determining factor in the success of natural language applications such as question answering and machine translation. Therefore, increasing the amount of data available in a language is crucial. Multilingual representations are formed by associating representations generated in one language to representations in another language. Through this association, use of rich resources available in a language such as English in less resource rich languages becomes possible. In this project, multilingual representations will be adapted for Turkish. As a result, multilingual representations that have been proven useful for Turkish, and supporting software will be shared with other researchers.
+          </p>
+         </img>
+        </li>
+        <li class="list-group-item">
+         <a class="redirect" id="Algorithms and Tools for Computational Modeling of Metabolomics Data">
+         </a>
+         <h4 class="bold">
+          Algorithms and Tools for Computational Modeling of Metabolomics Data
+         </h4>
+         <p>
+          Jan. 1, 2015
+  -
+  Jan. 1, 2017
+         </p>
+         <p>
+          <span class="bold">
+           Funding Institution:
+          </span>
+          TUBITAK
+         </p>
+         <p>
+          <span class="bold">
+           Principal Investigator:
+          </span>
+          <a href="/profile/9/Ali-Çakmak/">
+           Ali Çakmak
+          </a>
+         </p>
+         <p>
+         </p>
+         <img class="img-responsive img-thumbnail small-gap" src="/media/img/project/201527e6-e415-4354-a830-7aed9bccde8d_TdglGH1.jpg">
+          <p class="gap">
+           Metabolic networks consist of interacting biochemical reaction chains (i.e., pathways) that are responsible for essential cellular processes such as energy production, DNA synthesis, and lipid breakdown. Reactions in these networks are connected to each other through chemical substances (e.g., glucose) that they consume and produce. Such substances are called “metabolites”, and with the recent advancements in biotechnology, it is possible to simultaneously measure the concentrations for thousands of metabolites in biofluids (e.g., blood, urine, etc.). Extraordinary changes in metabolite concentrations often point to physiological conditions. Metabolomics is the study of these concentration changes as well as interpretation of what their biochemical implications may be. Interpreting the concentration changes of large numbers of metabolites with respect to a metabolic network is complicated, time consuming, and cumbersome. In order to decrease and manage the complexity, most researchers usually focus on only a small select set of metabolites among thousands. This usually results in omitting a large chunk of the big picture, and makes the analysis conclusions local and limited. The goal of this project is to develop models, algorithms, and tools to automatically interpret large numbers of metabolite concentration changes in a holistic manner, and produce a set of biologically viable hypotheses explaining the observed changes. Besides, we aim to create health applications that will enable the use of the output from the above models and algorithms.
+          </p>
+         </img>
+        </li>
+        <li class="list-group-item">
+         <a class="redirect" id="Adaptive Small Delay Defect Diagnosis">
+         </a>
+         <h4 class="bold">
+          Adaptive Small Delay Defect Diagnosis
+         </h4>
+         <p>
+          Jan. 1, 2015
+  -
+  Dec. 31, 2016
+         </p>
+         <p>
+          <span class="bold">
+           Funding Institution:
+          </span>
+          TUBITAK
+         </p>
+         <p>
+          <span class="bold">
+           Principal Investigator:
+          </span>
+          <a href="/profile/3/Barýþ-Arslan/">
+           Barýþ Arslan
+          </a>
+         </p>
+         <p>
+         </p>
+         <img class="img-responsive img-thumbnail small-gap" src="/media/img/project/Adaptive_Small_Delay_Defect_Diagnosis__-_Flyer-Blue_2BLE6d6.png">
+          <p class="gap">
+           Rapidly increasing the product yield for new process generations is crucial in achieving aggressive time-to-market requirements in semiconductor industry. Furthermore, a higher yield is primary driver in reducing product cost and increasing profit margins. As semiconductor manufacturing process scaling continues, subtle defects, primarily small delay defects that alter the timing of the circuits, are becoming increasingly common. A fast and accurate localization of small delay defects is essential in the identification of the cause of the defects and in the subsequent yield improvement. However, small and variable magnitude of small delay defects when coupled with the variable timing margins of the chips due to the process variation imposes inordinate challenges in small delay defect diagnosis.  This project develops highly accurate small delay defect diagnosis techniques. Optimal test failure data collection conditions are adaptively determined per chip and on-chip sensor data is intertwined with statistical pre-silicon analysis techniques to precisely pinpoint the failure locations.
+          </p>
+         </img>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="row ">
+      <div class="panel panel-default ">
+       <div class="panel-heading ">
+        <h4 class="bold">
+         Project Summaries - Completed Projects
+        </h4>
+       </div>
+       <ul class="list-group ">
+        <li class="list-group-item">
+         <a class="redirect" id="Search Campaign Management using Topic Models">
+         </a>
+         <h4 class="bold">
+          Search Campaign Management using Topic Models
+         </h4>
+         <p>
+          March 1, 2014
+  -
+  Sept. 1, 2015
+         </p>
+         <p>
+          <span class="bold">
+           Funding Institution:
+          </span>
+          TUBITAK
+         </p>
+         <p>
+          <span class="bold">
+           Principal Investigator:
+          </span>
+          <a href="/profile/6/Ahmet-Bulut/">
+           Ahmet Bulut
+          </a>
+         </p>
+         <p>
+         </p>
+         <img class="img-responsive img-thumbnail small-gap" src="/media/img/project/rsz_search.png">
+          <p class="gap">
+           We propose to build a semantic overlay on top of the search campaigns in order to avoid the 
+
+mental mismatch that occurs due to repetitive campaign audits. Our proposal is to build a latent 
+
+topic model using advertisement keywords and search terms. An online service embodies a 
+
+multitude of solution aspects, each of which serves a specific customer need or information 
+
+need. Each solution aspect is conceptually a theme or a topic. Our hypothesis is as follows: a 
+
+latent topic model governs a hidden data-generative process, which is responsible for emitting 
+
+the observed search terms. And our task is to reverse engineer the hidden parameters of the 
+
+topic model from the observations. Each information need corresponds to what a user has in 
+
+mind while querying the web. For example, if a user wants to create a custom social network for 
+
+his own personal use, then she will pose the query “how to create a private social network” to 
+
+the search engine. The reasoning behind our model-based approach assumes that behind this 
+
+query there are governing themes, some of which are (i) social network creation platforms, (ii) 
+
+personalization in social networks, and (iii) privacy in social networks. Once these themes are 
+
+determined, the campaign management task is going to become a management of themes 
+
+instead of management of raw sets of keywords. For example, if the advertiser wants to enhance 
+
+a certain theme among others, then she can increase the budget allocated for those keywords 
+
+that are governed by this specific theme. Since the model itself is generative, new keywords can 
+
+be created around a select set of themes.
+          </p>
+         </img>
+        </li>
+        <li class="list-group-item">
+         <a class="redirect" id="Data Mining Techniques for Fast Query Optimization in Relational Database Systems">
+         </a>
+         <h4 class="bold">
+          Data Mining Techniques for Fast Query Optimization in Relational Database Systems
+         </h4>
+         <p>
+          Jan. 1, 2014
+  -
+  Dec. 31, 2015
+         </p>
+         <p>
+          <span class="bold">
+           Funding Institution:
+          </span>
+          TUBITAK
+         </p>
+         <p>
+          <span class="bold">
+           Principal Investigator:
+          </span>
+          <a href="/profile/9/Ali-Çakmak/">
+           Ali Çakmak
+          </a>
+         </p>
+         <p>
+         </p>
+         <img class="img-responsive img-thumbnail small-gap" src="/media/img/project/d79bd781-37ec-4971-8834-e3e769fd02c8_vbyK8I1.jpg">
+          <p class="gap">
+           Query optimization module is responsible for generating  the lowest cost execution plans for queries running on database systems. The number of alternative execution plans that should be considered during optimization increases exponentially with the number of tables involved in a query. On the other hand, since the optimization is done during compilation-time, optimization time is rather limited. Therefore, eliminating the plan alternatives, which will be discarded later due to high estimated cost, before evaluation can provide significant performance gains.  The purpose of this project is to carry out the query optimization faster and more efficiently by using data mining techniques.  This project proposes to (i) apply query transformations selectively by graph mining during logical optimization, and (ii) eliminate beforehand the high-cost join order alternatives by using sequence mining techniques during physical optimization.
+          </p>
+         </img>
+        </li>
+        <li class="list-group-item">
+         <a class="redirect" id="Intelligent Scoping of Paid Search Campaigns using Advertiser &amp; End User Provided Relevance-Feedback">
+         </a>
+         <h4 class="bold">
+          Intelligent Scoping of Paid Search Campaigns using Advertiser &amp; End User Provided Relevance-Feedback
+         </h4>
+         <p>
+          Oct. 1, 2013
+  -
+  Oct. 1, 2015
+         </p>
+         <p>
+          <span class="bold">
+           Funding Institution:
+          </span>
+          TUBITAK
+         </p>
+         <p>
+          <span class="bold">
+           Principal Investigator:
+          </span>
+          <a href="/profile/6/Ahmet-Bulut/">
+           Ahmet Bulut
+          </a>
+         </p>
+         <p>
+         </p>
+         <img class="img-responsive img-thumbnail small-gap" src="/media/img/project/rsz_intelligent.png">
+          <p class="gap">
+           We are planning to build an automated search campaign management tool for paid search advertising. Our goal is to increase sales while easing the campaign management for advertisers. Our approach is to unify the positive end-user feedback in the form of conversions with the negative feedback provided by advertisers for building a conversion model.
+          </p>
+         </img>
+        </li>
+        <li class="list-group-item">
+         <a class="redirect" id="Topic Strand: Analyzing Social Media Discussions w.r.t. Participation Patterns and Participant Profiles">
+         </a>
+         <h4 class="bold">
+          Topic Strand: Analyzing Social Media Discussions w.r.t. Participation Patterns and Participant Profiles
+         </h4>
+         <p>
+          Sept. 1, 2013
+  -
+  Sept. 1, 2015
+         </p>
+         <p>
+          <span class="bold">
+           Funding Institution:
+          </span>
+          COST IC1205 - Computational Social Choice project
+         </p>
+         <p>
+          <span class="bold">
+           Principal Investigator:
+          </span>
+          <a href="/profile/4/Tarýk-Arýcý/">
+           Tarýk Arýcý
+          </a>
+         </p>
+         <p>
+         </p>
+         <img class="img-responsive img-thumbnail small-gap" src="/media/img/project/Topic_Strand-_Analyzing_Social_Media_Discussions.png">
+          <p class="gap">
+           Social media discussions exhibit rich temporal dynamics with respect to their occurrence as well as the profiles of the participants engaging in the discussions. The goal of our project is to detect and extract topic discussions from social media content, determine the features that summarize the discussion dynamics and select the ones that are most distinctive, form a multi-dimensional time series representation using these distinctive features (aka topic strands), design clustering algorithms for grouping similar topic strands, and integrate multi-resolution analysis techniques in order to capture similarities across time scales. Dr. Buðra Gedik from the Computer Engineering Department at the Ýhsan Doðramacý Bilkent University and Dr. Mehmet Fatih Aysan from the Sociology Department at the Ýstanbul Þehir University will work as researchers iin this interdisciplinary project.
+          </p>
+         </img>
+        </li>
+        <li class="list-group-item">
+         <a class="redirect" id="Testing NVR Suite of Programs with Real NMR Data">
+         </a>
+         <h4 class="bold">
+          Testing NVR Suite of Programs with Real NMR Data
+         </h4>
+         <p>
+          Sept. 1, 2013
+  -
+  March 1, 2015
+         </p>
+         <p>
+          <span class="bold">
+           Funding Institution:
+          </span>
+          TUBITAK - CNRS
+         </p>
+         <p>
+          <span class="bold">
+           Principal Investigator:
+          </span>
+          <a href="/profile/2/Mehmet-Apaydýn/">
+           Mehmet Apaydýn
+          </a>
+         </p>
+         <p>
+         </p>
+         <img class="img-responsive img-thumbnail small-gap" src="/media/img/project/Testing_NVR_suite_of_programs_with_real_NMR_data_M0qvUnE.png">
+          <p class="gap">
+           Assist. Prof.  M. Serkan Apaydýn and Dr. Eric Guittet’s (Institut de Chimie des Substances Naturelles, France) joint proposal has been awarded with TÜBÝTAK -National Scientific Research Center of France (CNRS) Bilateral Cooperation Program Travel Support.
+
+The Project, in which Assoc. Prof. Bülent Çatay from Sabancý University also takes part as researcher, aims to test the Nuclear Magnetic Resonance Spectroscopy (NMR) protein structure-based assignment sofware developed in Assist. Prof.  Apaydýn’s lab with data collected in Dr. Guittet’s laboratory. TÜBÝTAK -CNRS program will provide the travel support for the joint project.
+          </p>
+         </img>
+        </li>
+        <li class="list-group-item">
+         <a class="redirect" id="TTelligent Labs: T2C2">
+         </a>
+         <h4 class="bold">
+          TTelligent Labs: T2C2
+         </h4>
+         <p>
+          Sept. 1, 2012
+  -
+  Dec. 31, 2013
+         </p>
+         <p>
+          <span class="bold">
+           Funding Institution:
+          </span>
+          Türk Telekom - TUBITAK
+         </p>
+         <p>
+          <span class="bold">
+           Principal Investigator:
+          </span>
+          <a href="/profile/6/Ahmet-Bulut/">
+           Ahmet Bulut
+          </a>
+         </p>
+         <p>
+         </p>
+         <img class="img-responsive img-thumbnail small-gap" src="/media/img/project/rsz_t2c2.png">
+          <p class="gap">
+           TTelligent Labs aims to provide a scalable data analysis framework for a wide range of enterprise customers. The framework is provided as a service and runs purely in the TT compute cloud (T2C2). The T2C2 will be built and used for the project and also become a project deliverable. The customers use T2C2 to run complex data analysis jobs that are otherwise “difficult” to put together, time intensive to compute, and hard to scale using traditional siloed approaches (e.g., RDBMS, OLAP, Data Cubes). Furthermore, there is a vast amount of “non-standard” real-time and micro data (e.g., Twitter tweets, Facebook likes, Del.icio.us bookmarks, Linkedin group memberships, Pinterest pins, Google+’s and etc.) that you cannot possibly integrate all in one place. Customers need a parallel and immensely scalable set of adhoc analysis tools to crunch data to drive real time business insights. TTelligent Labs facilitates this insight extraction process.
+
+The main driver is to transform the business data analytics space by making business and data analysts get used to the following frame of thinking:
+
+What insight would I gain if I had full use of a 100-node compute cluster (C2) for an hour?
+What if one hour of this 100-node C2 would cost me only 50 TL?
+In the traditional approach, a business user first determines what question to ask, and then; IT would massage the underlying data to answer that query. In the new approach (T2C2), IT provides a platform that enables the creative discovery process. Then, the business user starts exploring with questions. This is the future of computing and doing business going forward.
+          </p>
+         </img>
+        </li>
+        <li class="list-group-item">
+         <a class="redirect" id="Intelligent Regularization: Sensitivity-Steered Message Passing">
+         </a>
+         <h4 class="bold">
+          Intelligent Regularization: Sensitivity-Steered Message Passing
+         </h4>
+         <p>
+          Sept. 1, 2012
+  -
+  Dec. 1, 2014
+         </p>
+         <p>
+          <span class="bold">
+           Funding Institution:
+          </span>
+          TUBITAK
+         </p>
+         <p>
+          <span class="bold">
+           Principal Investigator:
+          </span>
+          <a href="/profile/4/Tarýk-Arýcý/">
+           Tarýk Arýcý
+          </a>
+         </p>
+         <p>
+         </p>
+         <img class="img-responsive img-thumbnail small-gap" src="/media/img/project/Intelligent_Regularization-_Sensitivity-Steered_Message_Passing_j0CUCkC.png">
+          <p class="gap">
+           In this project, our goal is to achieve a milestone in solving inverse problems. Since inverse problems are basically underdetermined problems, some assumptions and prior information are utilized to improve the ill-definedness of the problem. We are going to infer from the data and the iterate if the constraints that encapsulate these assumptions and prior information are correct or not by using Bregman’s algorithm.
+          </p>
+         </img>
+        </li>
+        <li class="list-group-item">
+         <a class="redirect" id="Real-time Video Analytics Engine Optimized for GPUs">
+         </a>
+         <h4 class="bold">
+          Real-time Video Analytics Engine Optimized for GPUs
+         </h4>
+         <p>
+          Jan. 1, 2012
+  -
+  Dec. 31, 2015
+         </p>
+         <p>
+          <span class="bold">
+           Funding Institution:
+          </span>
+          EU 7th FP Marie Curie Career Integration Grants (CIG)
+         </p>
+         <p>
+          <span class="bold">
+           Principal Investigator:
+          </span>
+          <a href="/profile/4/Tarýk-Arýcý/">
+           Tarýk Arýcý
+          </a>
+         </p>
+         <p>
+         </p>
+         <img class="img-responsive img-thumbnail small-gap" src="/media/img/project/real_P9hA7hB_AkCjHez.png">
+          <p class="gap">
+           Video surveillance systems are widely deployed to keep private and public spaces safe and secure. There are over 30 million cameras in United States only, shooting 4 billion hours of video footage a week. Currently, it requires significant human supervision to analyze the videos captured by surveillance cameras. Since it is not possible to analyze all the video data with eye inspection, most of it is stored and not processed. Programmable Graphics Processor Units (GPUs) have evolved into multi-threaded, many-core, highly parallel processors. However, to be able to take full advantage of the GPUs, the algorithms must be highly parallel. The objective of the project is to design and implement parallel video analysis algorithms optimized for the GPU.
+          </p>
+         </img>
+        </li>
+        <li class="list-group-item">
+         <a class="redirect" id="Energy-Aware Mobile Gaming and Virtual Environments">
+         </a>
+         <h4 class="bold">
+          Energy-Aware Mobile Gaming and Virtual Environments
+         </h4>
+         <p>
+          Jan. 1, 2012
+  -
+  Sept. 1, 2012
+         </p>
+         <p>
+          <span class="bold">
+           Funding Institution:
+          </span>
+          TUBITAK
+         </p>
+         <p>
+          <span class="bold">
+           Principal Investigator:
+          </span>
+          <a href="/profile/8/Shervin-Shirmohammadi/">
+           Shervin Shirmohammadi
+          </a>
+         </p>
+         <p>
+         </p>
+         <img class="img-responsive img-thumbnail small-gap" src="/media/img/project/Energy-Aware_Mobile_Gaming_and_Virtual_Environments.png">
+          <p class="gap">
+           Due to the limited battery life of mobile devices, gameplay on such devices is significantly shorter and with lower quality compared to their PC counterparts. This limits mobile games, which in turn reduces opportunities in this lucrative market. In this project, we study, design, and develop energy-aware mobile gaming technologies that will help reduce the amount of power consumption by games on mobile devices, leading to longer playing time and higher gaming quality for players. We do so by designing novel algorithms and techniques for streaming and rendering of 3D graphical game objects to mobile devices, including limiting lighting effects and improving brightness control via textural transformation. In addition to 3D graphical objects, we also study video-based game streaming, as done in cloud gaming platforms such as OnLive, and design new methods to adapt the video bitrate to the capabilities of the player’s device without perceivable loss of quality of gaming experience.
+          </p>
+         </img>
+        </li>
+        <li class="list-group-item">
+         <a class="redirect" id="Automated NMR Structure Based Assignments">
+         </a>
+         <h4 class="bold">
+          Automated NMR Structure Based Assignments
+         </h4>
+         <p>
+          Jan. 10, 2010
+  -
+  Sept. 11, 2015
+         </p>
+         <p>
+          <span class="bold">
+           Funding Institution:
+          </span>
+          EU
+         </p>
+         <p>
+          <span class="bold">
+           Principal Investigator:
+          </span>
+          <a href="/profile/2/Mehmet-Apaydýn/">
+           Mehmet Apaydýn
+          </a>
+         </p>
+         <p>
+         </p>
+         <img class="img-responsive img-thumbnail small-gap" src="/media/img/project/Blank_Flowchart_-_New_Page_1.png">
+          <p class="gap">
+           While automation is revolutionizing many aspects of biology, the determination of three-dimensional protein structure remains a long, hard, and expensive task. Novel algorithms and computational methods in biomolecular NMR are necessary to apply modern techniques such as structure-based drug design on a much larger scale. The goal of this project is to address a key computational bottleneck in NMR structural biology, resonance assignments. We will accelerate protein NMR assignment by exploiting a priori structural information. By analogy, in X-ray crystallography, the molecular replacement (MR) technique allows solution of the crystallographic phase problem when a “close” or homologous structural model is known, thereby facilitating rapid structure determination. In contrast, a key bottleneck in NMR structural biology is the assignment problem. An automated procedure for rapidly determining NMR assignments given an homologous structure, will similarly accelerate structure determination. Moreover, even when the structure has already been determined by crystallography or computational homology modeling, NMR assignments are valuable because NMR can be used to probe protein-protein interactions and protein-ligand binding (e.g. via chemical shift mapping), and dynamics (via, e.g., nuclear spin relaxation). We will develop an MR-like approach for structure-based assignment of resonances and NOEs, to be applied when a homologous protein is known. The tool that we develop will accept both CH- and NH- RDCs, and 4-D NOESY data, and will implement a Bayesian scoring function for structure-based assignments. It will provide the user the option to use only NH RDCs or NH and CH RDCs and will be tested on real proteins. The source code will be released as open source with the user manual.
+          </p>
+         </img>
+        </li>
+        <li class="list-group-item">
+         <a class="redirect" id="Novel algorithms for NMR Structure-Based Assignments">
+         </a>
+         <h4 class="bold">
+          Novel algorithms for NMR Structure-Based Assignments
+         </h4>
+         <p>
+          Sept. 1, 2009
+  -
+  Sept. 1, 2011
+         </p>
+         <p>
+          <span class="bold">
+           Funding Institution:
+          </span>
+          TUBITAK
+         </p>
+         <p>
+          <span class="bold">
+           Principal Investigator:
+          </span>
+          <a href="/profile/2/Mehmet-Apaydýn/">
+           Mehmet Apaydýn
+          </a>
+         </p>
+         <p>
+         </p>
+         <img class="img-responsive img-thumbnail small-gap" src="/media/img/project/NMR_Structure-Based_Assignments_l7Fvdit.png">
+          <p class="gap">
+           NMR spectroscopy is one of the techniques used in protein structure determination and functional studies. This technique is also used in determining the dynamics of proteins, in drug development, in investigating protein-protein interactions and in determining  structure-function relationship. Protein Structure Initiative (PSI) initiated by the Institute of Health for764 million U.S. dollars in 2000, aims to define a sample structure of each protein strand by using the techniques of NMR and X-ray. As a result, structures of homologous proteins solved by PSI can be used to determine the structures of thousands of new protein sequences added to databases every month. It is intended to use the homologous protein information for the assignment problem, which is an important and very time-consuming step in protein structure determination by NMR, in order to produce a solution to the problem more quickly and accurately.  For this purpose, exact and heuristic approaches have been developed for the protein structure-based assignment problem, and these approaches have been tested succesfully with a large data set including large (&gt; 200 amino acids) proteins. This program is expected to speed up the work of determining structures by NMR within PSI project,  and  be an approach like the molecular changes in X-ray spectroscopy.
+          </p>
+         </img>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <!--/.box-->
+   </div>
+   <!--/.container-->
+  </section>
+  <!--/#portfolio-->
+  <section id="contact">
+   <div class="container">
+    <div class="box last">
+     <div class="row">
+      <div class="col-sm-6">
+       <address>
+        Ýstanbul Þehir University
+        <br>
+         Altunizade Mah. Oymacý Sok. No: 15
+         <br>
+          34660 Istanbul, Turkey
+          <br>
+           Email:
+           <a href="mailto:cs@sehir.edu.tr">
+            cs@sehir.edu.tr
+           </a>
+           <br>
+            <abbr title="Phone">
+             Phone:
+            </abbr>
+            +90 216 559 9000
+           </br>
+          </br>
+         </br>
+        </br>
+       </address>
+      </div>
+      <div class="col-sm-6">
+       <div class="col-md-4">
+        <a href="https://www.linkedin.com/groups/8456321" target="_blank">
+         <i class="icon-linkedin icon-social">
+         </i>
+         Linkedin
+        </a>
+       </div>
+       <div class="col-md-4">
+        <a href="https://twitter.com/sehir_cs" target="_blank">
+         <i class="icon-twitter icon-social">
+         </i>
+         Twitter
+        </a>
+       </div>
+       <div class="col-md-4">
+        <a href="https://www.youtube.com/channel/UCTAFsvpKz2IzTk4unPk2rbQ" target="_blank">
+         <i class="icon-youtube icon-social">
+         </i>
+         Youtube
+        </a>
+       </div>
+      </div>
+     </div>
+     <!--/.row-->
+    </div>
+    <!--/.box-->
+   </div>
+   <!--/.container-->
+  </section>
+  <!--/#contact-->
+  <script src="/static/home/js/jquery.js">
+  </script>
+  <script src="/static/home/js/bootstrap.min.js">
+  </script>
+  <script src="/static/home/js/jquery.isotope.min.js">
+  </script>
+  <script src="/static/home/js/jquery.prettyPhoto.js">
+  </script>
+  <script src="/static/home/js/main.js">
+  </script>
+  <script src="/static/home/js/twitter.carousel.js">
+  </script>
+  <script>
+   (function(i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function() {
+          (i[r].q = i[r].q || []).push(arguments)
+        },
+        i[r].l = 1 * new Date();
+        a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+      })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+      ga('create', 'UA-71666019-1', 'auto');
+      ga('send', 'pageview');
+  </script>
+ </body>
+</html>
+
+
+Process finished with exit code 0
